@@ -1,5 +1,7 @@
 from product import Product
 from product_manager import ProductManager
+from cart import Cart
+import random
 
 def main():
     manager = ProductManager()
