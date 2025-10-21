@@ -1,0 +1,10 @@
+# Ignoriši config fajl sa poverljivim podacima
+config.json
+
+# Ignoriši slike snimaka zaslona (screenshots)
+*.png
+*.jpg
+*.jpeg
+
+# Ignoriši folder sa snimcima zaslona ako postoji
+screenshots/
